@@ -1,0 +1,98 @@
+color
+
+#677B8C
+#232323
+
+
+
+    <div className="col  pt-5 mt-3">
+        <h1 className="display-4 d-none d-sm-block">
+        Bootstrap 4 Dashboard
+        </h1>
+        <p className="lead d-none d-sm-block">Plus off-canvas sidebar, based on Bootstrap v4</p>
+
+        <div className="alert alert-warning fade collapse" role="alert" id="myAlert">
+            <button type="button" className="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">×</span>
+                <span className="sr-only">Close</span>
+            </button>
+            <strong>Holy guacamole!</strong> It's free.. this is an example theme.
+        </div>
+        <div className="row mb-3">
+            <div className="col-xl-3 col-sm-6 py-2">
+                <div className="card bg-success text-white h-100">
+                    <div className="card-body bg-success">
+                        <div className="rotate">
+                            <i className="fa fa-user fa-4x"></i>
+                        </div>
+                        <h6 className="text-uppercase">Users</h6>
+                        <h1 className="display-4">134</h1>
+                    </div>
+                </div>
+            </div>
+            <div className="col-xl-3 col-sm-6 py-2">
+                <div className="card text-white bg-danger h-100">
+                    <div className="card-body bg-danger">
+                        <div className="rotate">
+                            <i className="fa fa-list fa-4x"></i>
+                        </div>
+                        <h6 className="text-uppercase">Posts</h6>
+                        <h1 className="display-4">87</h1>
+                    </div>
+                </div>
+            </div>
+            <div className="col-xl-3 col-sm-6 py-2">
+                <div className="card text-white bg-info h-100">
+                    <div className="card-body bg-info">
+                        <div className="rotate">
+                            <i className="fa fa-twitter fa-4x"></i>
+                        </div>
+                        <h6 className="text-uppercase">Tweets</h6>
+                        <h1 className="display-4">125</h1>
+                    </div>
+                </div>
+            </div>
+            <div className="col-xl-3 col-sm-6 py-2">
+                <div className="card text-white bg-warning h-100">
+                    <div className="card-body">
+                        <div className="rotate">
+                            <i className="fa fa-share fa-4x"></i>
+                        </div>
+                        <h6 className="text-uppercase">Shares</h6>
+                        <h1 className="display-4">36</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {/* <!--/row--> */}
+
+        <hr/>
+     
+        <hr/>
+     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero hic numquam rem maiores dolor provident ipsa animi omnis quam, placeat molestias blanditiis ab voluptates veniam quisquam pariatur atque fugiat sed praesentium? Laboriosam quia placeat aliquid excepturi enim blanditiis ullam, dolores non consectetur, autem eligendi, neque iusto officia incidunt provident architecto voluptatibus atque voluptate ipsam obcaecati dolore fuga magni perferendis sit. Consectetur ad earum cumque, delectus officia voluptatum commodi quae inventore? Neque, voluptates omnis perspiciatis laborum vitae velit corrupti maxime numquam cumque vel incidunt obcaecati? Explicabo rerum vitae sunt molestiae tempora cumque eum dignissimos aut? Est tenetur amet dolore numquam quis hic inventore dicta nisi fugit ipsam. Harum praesentium libero fugit ipsa placeat soluta natus quas eveniet et quasi nemo minus laborum distinctio enim recusandae ab ullam voluptatibus, odio sint voluptas fugiat quisquam vel veniam incidunt? Voluptate perspiciatis amet, delectus, voluptates quis reprehenderit beatae laborum dolore hic voluptas numquam minus ex earum repellendus ea magni, voluptatibus sit natus sed mollitia tempora totam cupiditate officiis. Est quidem harum nam placeat molestias recusandae aspernatur rerum ut dolor animi optio, corrupti perferendis esse quos voluptates soluta? Molestias odit consequuntur doloribus delectus quaerat excepturi, minima dolores suscipit reprehenderit ipsam quasi molestiae quos a porro hic fugit aperiam aliquid dolore labore veniam atque ipsa. Porro illum molestiae dolore iusto, doloremque ipsum explicabo consequuntur nulla ullam quam dolor quod labore voluptatem necessitatibus illo rerum? Debitis nihil suscipit impedit! Quis blanditiis omnis tempora expedita voluptas at placeat. Laborum iure exercitationem iste corporis laboriosam est, unde facere, consectetur praesentium, dignissimos reiciendis aliquam deserunt. Illum dicta aut qui suscipit eos? Porro, velit nobis praesentium nemo rem expedita fuga accusamus quo, in fugiat officia? Enim nemo laborum perspiciatis, fugiat commodi praesentium repellendus possimus assumenda vero, alias sequi sint? Voluptatibus expedita, reiciendis commodi voluptate rerum inventore unde tempora ad officia, obcaecati quam! Accusantium quisquam quis magni quos provident voluptatibus illo eligendi velit optio! Obcaecati perferendis quam, mollitia laborum provident neque eligendi? Iste necessitatibus, illum laboriosam dolor sequi quaerat quisquam doloremque voluptates in dolores neque nesciunt sint repellendus doloribus, dicta ratione eum mollitia asperiores ab. In et at id quaerat reprehenderit eum accusamus, facere aliquam optio sint laudantium atque fugiat fuga. Est deleniti quae provident voluptate nisi consequatur corrupti, perspiciatis porro suscipit eligendi tempora vero quod, laudantium cumque possimus! Fugiat facilis repudiandae modi esse at! Repellendus eius obcaecati ad debitis quibusdam vel iure officiis cumque, corrupti minus sunt explicabo saepe doloremque! Recusandae sapiente explicabo nisi at sequi, error assumenda vitae minima eius dicta fuga aut ut dolore ipsum in saepe, aliquid placeat commodi magni itaque optio, veritatis dolor nulla consectetur? Officiis blanditiis sit temporibus ab deserunt neque assumenda! Fugiat, ad asperiores doloremque tenetur, enim doloribus fuga repellat, expedita assumenda sint obcaecati mollitia totam nihil. Minima ad molestiae voluptas impedit doloribus nulla cupiditate omnis praesentium non minus, reiciendis obcaecati aliquam adipisci architecto nemo dolorum quia? Culpa ab labore corrupti, perspiciatis delectus deserunt modi atque, laudantium cum hic ipsum beatae magni. Nemo itaque fugit ab beatae animi, facilis qui, veniam provident ipsam tenetur illo pariatur.</p>
+
+    </div>
+    
+
+ <nav className="navbar navbar-expand-md navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+
+        <button className="navbar-toggler position-absolute d-md-none collapsed" type="button"
+          data-toggle="collapse" data-target="#sidebarMenu" aria-controls="sidebarMenu"
+          aria-expanded="false" aria-label="Toggle navigation">
+          <span className="navbar-toggler-icon"></span>
+        </button>
+        <div className="collapse navbar-collapse" id="sidebarMenu">
+
+          <Link className="navbar-brand col-md-3 col-lg-2 mr-0 px-3" to='/' >Company name</Link>
+          <input className="form-control form-control-dark w-100" type="text"
+            placeholder="Search" aria-label="Search" />
+          <ul className="navbar-nav px-3">
+            <li className="nav-item text-nowrap">
+
+              <Link className="nav-link" to='/logout' >Sign out</Link>
+            </li>
+          </ul>
+
+        </div>
+
+      </nav>
